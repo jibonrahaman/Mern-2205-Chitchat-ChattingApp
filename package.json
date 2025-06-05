@@ -12,7 +12,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "emoji-picker-react": "^4.5.16",
-    "firebase": "^10.5.0",
+    "firebase": "^10.5.2",
     "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-cropper": "^2.3.3",
